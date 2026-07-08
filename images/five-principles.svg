@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" font-family="Montserrat, sans-serif">
+  <rect width="400" height="320" fill="#f8f8f6" rx="8"/>
+  <text x="200" y="24" text-anchor="middle" font-size="11" font-weight="700" fill="#999" letter-spacing="2">ПЯТЬ ПРИНЦИПОВ КА</text>
+  <g transform="translate(24,44)">
+    <rect width="352" height="44" rx="6" fill="#fff" stroke="#e5e5e5"/>
+    <text x="20" y="18" font-size="18" font-weight="300" fill="#b00000">01</text>
+    <text x="48" y="18" font-size="11" font-weight="700" fill="#333">Пересборка модели</text>
+    <text x="48" y="34" font-size="10" fill="#666">Не внедрение ИИ, а архитектура компании</text>
+  </g>
+  <g transform="translate(24,96)">
+    <rect width="352" height="44" rx="6" fill="#fff" stroke="#e5e5e5"/>
+    <text x="20" y="18" font-size="18" font-weight="300" fill="#b00000">02</text>
+    <text x="48" y="18" font-size="11" font-weight="700" fill="#333">Автономия</text>
+    <text x="48" y="34" font-size="10" fill="#666">Прозрачность вместо контроля</text>
+  </g>
+  <g transform="translate(24,148)">
+    <rect width="352" height="44" rx="6" fill="#fff" stroke="#e5e5e5"/>
+    <text x="20" y="18" font-size="18" font-weight="300" fill="#b00000">03</text>
+    <text x="48" y="18" font-size="11" font-weight="700" fill="#333">Агенты + люди</text>
+    <text x="48" y="34" font-size="10" fill="#666">Рутина агентам, смысл людям</text>
+  </g>
+  <g transform="translate(24,200)">
+    <rect width="352" height="44" rx="6" fill="#fff" stroke="#e5e5e5"/>
+    <text x="20" y="18" font-size="18" font-weight="300" fill="#b00000">04</text>
+    <text x="48" y="18" font-size="11" font-weight="700" fill="#333">Процессы как код</text>
+    <text x="48" y="34" font-size="10" fill="#666">Знание - актив, не память</text>
+  </g>
+  <g transform="translate(24,252)">
+    <rect width="352" height="44" rx="6" fill="#fff" stroke="#e5e5e5"/>
+    <text x="20" y="18" font-size="18" font-weight="300" fill="#b00000">05</text>
+    <text x="48" y="18" font-size="11" font-weight="700" fill="#333">Governance</text>
+    <text x="48" y="34" font-size="10" fill="#666">Кто решает важнее какая нейросеть</text>
+  </g>
+</svg>
