@@ -146,7 +146,7 @@ metaDescription: "Сорок ИИ-пилотов и ноль переданно�
 
 [1] S&P Global Market Intelligence, «Voice of the Enterprise: AI & Machine Learning», октябрь 2025, более 1000 руководителей (Северная Америка и Европа). Доля компаний, отказывающихся от большинства ИИ-инициатив, 17 -> 42 процента; до продакшена в среднем не доходит 46 процентов пилотов. Статус - факт самоотчёта.
 
-[2] BCG, «AI Radar 2026: As AI Investments Surge, CEOs Take the Lead», январь 2026, более 1250 руководителей. Стабильно извлекают ценность 5 процентов компаний; 60 процентов сообщают о минимальном приросте и не имеют базы для масштабирования. Статус - факт самоотчёта. [→ ссылка](https://www.bcg.com/publications/2026/as-ai-investments-surge-ceos-take-the-lead)
+[2] BCG, «Are You Generating Value from AI? The Widening Gap», 30 сентября 2025, более 1250 компаний. Стабильно извлекают ценность 5 процентов компаний; 60 процентов сообщают о минимальном приросте и не имеют базы для масштабирования. Статус - факт самоотчёта. [→ ссылка](https://www.bcg.com/publications/2025/are-you-generating-value-from-ai-the-widening-gap)
 
 [3] McKinsey, «State of AI trust in 2026: Shifting to the agentic era», 2026 (ключевая статистика по EBIT - из массива «The state of AI in 2025»). Около 39 процентов организаций видят влияние ИИ на прибыль (EBIT) на уровне предприятия, у большинства из них - менее 5 процентов EBIT. Статус - факт самоотчёта. [→ ссылка](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 

@@ -9,9 +9,9 @@
 - **Статус:** Факт самоотчёта.
 
 ## [2] Ценность извлекают немногие
-- **Источник:** BCG, «AI Radar 2026: As AI Investments Surge, CEOs Take the Lead».
-- **Ссылка:** https://www.bcg.com/publications/2026/as-ai-investments-surge-ceos-take-the-lead
-- **Дата:** январь 2026. Выборка: более 1250 руководителей.
+- **Источник:** BCG, «Are You Generating Value from AI? The Widening Gap» (серия Build for the Future 2025).
+- **Ссылка:** https://www.bcg.com/publications/2025/are-you-generating-value-from-ai-the-widening-gap
+- **Дата:** 30 сентября 2025. Выборка: более 1250 компаний. (Январский AI Radar 2026 этих цифр не содержит - атрибуция исправлена 17.09.2026.)
 - **Данные:** стабильно извлекают ценность 5 процентов компаний; 60 процентов сообщают о минимальном приросте и не имеют базы для масштабирования.
 - **Статус:** Факт самоотчёта.
 
