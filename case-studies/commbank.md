@@ -7,10 +7,11 @@
 - **Август 2025:** банк сократил группу ролей в пользу голосового ИИ-бота в обслуживании.
 - Затем **развернул решение** после разбора с профсоюзом (Finance Sector Union), признав, что объём работы людей был недооценён.
 - Возврат прошёл как публичный разбор, а не как штатное действие контура.
+- **Продолжение, 2026:** банк описывает платформу обслуживания с агентом-маршрутизатором «ИИ или специалист»; около **85%** обращений в мессенджере решены до конца в этом канале (май 2026, Microsoft Source, 09.07.2026). Самоотчёт банка и вендора.
 
 ## Источник
 
-Публичные сообщения банка и Finance Sector Union, 2025: заявление FSU от 21.08.2025 (https://www.fsunion.org.au/win-cba-backflips-on-customer-service-job-cuts-admits-they-got-it-wrong/), ABC News в тот же день. Публичный кейс, в границах ADR-0002.
+Публичные сообщения банка и Finance Sector Union, 2025: заявление FSU от 21.08.2025 (https://www.fsunion.org.au/win-cba-backflips-on-customer-service-job-cuts-admits-they-got-it-wrong/), ABC News в тот же день. Продолжение - Microsoft Source, 09.07.2026: https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service/. Публичный кейс, в границах ADR-0002.
 
 ## Что иллюстрирует в книге
 
